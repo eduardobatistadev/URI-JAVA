@@ -12,9 +12,7 @@ public class Uri_1003 {
 		int B = sc.nextInt();
 		int SOMA = A+B;
 		
-		System.out.printf("SOMA = " + SOMA);
-		System.out.println();
-		
+		System.out.println("SOMA = " + SOMA);	
 		
 		sc.close();
 
