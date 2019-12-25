@@ -12,11 +12,10 @@ public class Uri_1004 {
 		int B = sc.nextInt();
 		int PROD = A*B;
 		
-		System.out.println("PROD = " + PROD);
-		
+		System.out.printf("PROD = " + PROD);
 		
 		sc.close();
-
+		
 	}
 
 }
